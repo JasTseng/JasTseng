@@ -10,4 +10,4 @@
 1. 第3好:能給小航開台的動力
 
 ## 相關連結
-點右邊連結才能更了解我 ! [歡迎來到臭癢層](https://markdownlivepreview.com/).
+點右邊連結才能更了解我 ! [歡迎來到臭癢層](https://jastseng.github.io/).
